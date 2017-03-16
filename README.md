@@ -41,7 +41,7 @@ local SUP = -100 -- SupportID
 ### Our Team Info : 
 
   � **Raptor** [GitHub](github.com/DevTeam-Co) [Telegram](https://T.me/Pedaret) 
-    **Channel** [Telegram}(https://T.me/Teshne)
+    **Channel** [Telegram](https://T.me/Teshne)
   
   
  
