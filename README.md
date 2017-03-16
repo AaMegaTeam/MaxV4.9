@@ -1,5 +1,4 @@
 # Ultra Maximus
-<p align="center"><img src="" width="384" alt="F80" title="F80">
 
 ## Commands
 
