@@ -1,4 +1,4 @@
-# SprCpu - F80 
+# Ultra Maximus
 <p align="center"><img src="" width="384" alt="F80" title="F80">
 
 ## Commands
@@ -12,8 +12,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SPR-CPU-ORG/F80.git
-cd F80
+git clone https://github.com/DevTeam-Co/MaxV4.9
+cd MaxV4.9
 chmod +x Run.sh
 chmod +x Install.sh
 ./Install.sh install
@@ -40,13 +40,9 @@ local SUP = -100 -- SupportID
 
 ### Our Team Info : 
 
-  � **ReloadLife** [GitHub](github.com/Reload-Life) [Telegram](https://T.me/Reload_Life) 
+  � **Raptor** [GitHub](github.com/DevTeam-Co) [Telegram](https://T.me/Pedaret) 
+    **Channel** [Telegram}(https://T.me/Teshne)
   
-  � **ArisharrNajafi** [GitHub](github.com/Arisharr) [Telegram](https://T.me/Arisharr) 
   
-  � **WebShark25** [GitHub](github.com/WebShark025) [Telegram](https://T.me/WebShark25) 
-  
-  � **Alireza** [Telegram](https://T.me/DonRabbit)
-  
-  � **Our WebSite **: [Spr-Cpu.ir](http://Spr-Cpu.ir)
+ 
   
